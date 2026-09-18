@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a0afce-90ce-7450-a9a4-2b3545ff9760",
-  "CreatedAt": "2026-09-17T14:39:05.422283891Z",
+  "ReportID": "01a0b4d5-6fd2-7637-abe8-0d20144c3b76",
+  "CreatedAt": "2026-09-18T14:04:41.810409105Z",
   "ArtifactName": "/tmp/extracted-deps",
   "ArtifactType": "filesystem",
   "Results": [
@@ -2708,7 +2708,7 @@
           ],
           "VendorSeverity": {
             "alma": 3,
-            "amazon": 3,
+            "amazon": 2,
             "azure": 3,
             "cbl-mariner": 3,
             "ghsa": 3,
@@ -2794,7 +2794,7 @@
           ],
           "VendorSeverity": {
             "alma": 3,
-            "amazon": 3,
+            "amazon": 2,
             "azure": 3,
             "cbl-mariner": 3,
             "ghsa": 3,
@@ -2880,7 +2880,7 @@
           ],
           "VendorSeverity": {
             "alma": 3,
-            "amazon": 3,
+            "amazon": 2,
             "azure": 3,
             "cbl-mariner": 3,
             "ghsa": 3,
@@ -2966,7 +2966,7 @@
           ],
           "VendorSeverity": {
             "alma": 3,
-            "amazon": 3,
+            "amazon": 2,
             "azure": 3,
             "cbl-mariner": 3,
             "ghsa": 3,
@@ -3055,7 +3055,7 @@
           ],
           "VendorSeverity": {
             "alma": 3,
-            "amazon": 3,
+            "amazon": 2,
             "azure": 3,
             "cbl-mariner": 3,
             "ghsa": 3,
@@ -3144,7 +3144,7 @@
           ],
           "VendorSeverity": {
             "alma": 3,
-            "amazon": 3,
+            "amazon": 2,
             "azure": 3,
             "cbl-mariner": 3,
             "ghsa": 3,
